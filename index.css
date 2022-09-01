@@ -1,0 +1,23 @@
+.clase1{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.clase2{
+    background: rgb(233, 194, 89);
+    
+}
+
+.clase3{
+    background: rgb(209, 48, 48);
+    
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.card2 {
+    background: rgb(190, 134, 60);
+}
